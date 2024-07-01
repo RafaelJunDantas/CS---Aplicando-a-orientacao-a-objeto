@@ -1,0 +1,14 @@
+C:\Users\Rafael Dantas\.vscode\projetos\Alura\CS - aplicando a orientação a objeto\bin\Debug\net8.0\CS - aplicando a orientação a objeto.exe
+C:\Users\Rafael Dantas\.vscode\projetos\Alura\CS - aplicando a orientação a objeto\bin\Debug\net8.0\CS - aplicando a orientação a objeto.deps.json
+C:\Users\Rafael Dantas\.vscode\projetos\Alura\CS - aplicando a orientação a objeto\bin\Debug\net8.0\CS - aplicando a orientação a objeto.runtimeconfig.json
+C:\Users\Rafael Dantas\.vscode\projetos\Alura\CS - aplicando a orientação a objeto\bin\Debug\net8.0\CS - aplicando a orientação a objeto.dll
+C:\Users\Rafael Dantas\.vscode\projetos\Alura\CS - aplicando a orientação a objeto\bin\Debug\net8.0\CS - aplicando a orientação a objeto.pdb
+C:\Users\Rafael Dantas\.vscode\projetos\Alura\CS - aplicando a orientação a objeto\obj\Debug\net8.0\CS - aplicando a orientação a objeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael Dantas\.vscode\projetos\Alura\CS - aplicando a orientação a objeto\obj\Debug\net8.0\CS - aplicando a orientação a objeto.AssemblyInfoInputs.cache
+C:\Users\Rafael Dantas\.vscode\projetos\Alura\CS - aplicando a orientação a objeto\obj\Debug\net8.0\CS - aplicando a orientação a objeto.AssemblyInfo.cs
+C:\Users\Rafael Dantas\.vscode\projetos\Alura\CS - aplicando a orientação a objeto\obj\Debug\net8.0\CS - aplicando a orientação a objeto.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Dantas\.vscode\projetos\Alura\CS - aplicando a orientação a objeto\obj\Debug\net8.0\CS - aplicando a orientação a objeto.dll
+C:\Users\Rafael Dantas\.vscode\projetos\Alura\CS - aplicando a orientação a objeto\obj\Debug\net8.0\refint\CS - aplicando a orientação a objeto.dll
+C:\Users\Rafael Dantas\.vscode\projetos\Alura\CS - aplicando a orientação a objeto\obj\Debug\net8.0\CS - aplicando a orientação a objeto.pdb
+C:\Users\Rafael Dantas\.vscode\projetos\Alura\CS - aplicando a orientação a objeto\obj\Debug\net8.0\CS - aplicando a orientação a objeto.genruntimeconfig.cache
+C:\Users\Rafael Dantas\.vscode\projetos\Alura\CS - aplicando a orientação a objeto\obj\Debug\net8.0\ref\CS - aplicando a orientação a objeto.dll
